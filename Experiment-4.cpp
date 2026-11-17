@@ -1,4 +1,3 @@
-4. Implement Single and Multilevel Inheritance for a university management scenario (Person → Student → GraduateStudent).
 #include <iostream>
 #include <string>
 using namespace std;
